@@ -1,0 +1,12 @@
+C:\Users\Georg\source\repos\WorkingwithDB\WorkingwithDB\bin\Debug\Database.mdf
+C:\Users\Georg\source\repos\WorkingwithDB\WorkingwithDB\bin\Debug\Database_log.ldf
+C:\Users\Georg\source\repos\WorkingwithDB\WorkingwithDB\bin\Debug\WorkingwithDB.exe.config
+C:\Users\Georg\source\repos\WorkingwithDB\WorkingwithDB\bin\Debug\WorkingwithDB.exe
+C:\Users\Georg\source\repos\WorkingwithDB\WorkingwithDB\bin\Debug\WorkingwithDB.pdb
+C:\Users\Georg\source\repos\WorkingwithDB\WorkingwithDB\obj\Debug\WorkingwithDB.csprojAssemblyReference.cache
+C:\Users\Georg\source\repos\WorkingwithDB\WorkingwithDB\obj\Debug\WorkingwithDB.Form1.resources
+C:\Users\Georg\source\repos\WorkingwithDB\WorkingwithDB\obj\Debug\WorkingwithDB.Properties.Resources.resources
+C:\Users\Georg\source\repos\WorkingwithDB\WorkingwithDB\obj\Debug\WorkingwithDB.csproj.GenerateResource.cache
+C:\Users\Georg\source\repos\WorkingwithDB\WorkingwithDB\obj\Debug\WorkingwithDB.csproj.CoreCompileInputs.cache
+C:\Users\Georg\source\repos\WorkingwithDB\WorkingwithDB\obj\Debug\WorkingwithDB.exe
+C:\Users\Georg\source\repos\WorkingwithDB\WorkingwithDB\obj\Debug\WorkingwithDB.pdb
